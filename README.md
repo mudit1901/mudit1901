@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudit1901" alt="mudit1901" /></a> </p>
 
-- 🌱 I’m currently learning **Web Technologies**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C++,Java,Python,Dart,Flutter,JavaScript,Android**
 
