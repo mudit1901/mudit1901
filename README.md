@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mudit Dave</h1>
-<h3 align="center">A Passionate Web/App Developer from India</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit1901&label=Profile%20views&color=0e75b6&style=flat" alt="mudit1901" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudit1901" alt="mudit1901" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C++,Java,Python,Dart,Flutter,JavaScript,Android**
+- 💬 Ask me about **C++,Java,Python,Dart,Flutter,JavaScript,Android,Python,Web Scraping,Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
